@@ -23,6 +23,13 @@ proposed changes.
 
 # Screenshots
 
+[<img src="" width=250>]()
+[<img src="" width=250>]()
+[<img src="" width=250>]()
+
+[<img src="" width=250>]()
+[<img src="" width=250>]()
+
 Main screen, listing all loyalty cards:
 
 ![screenshot_2016-08-28-15-16-12](https://cloud.githubusercontent.com/assets/5264535/18036233/32fae9a6-6d33-11e6-81e4-55ba60e83d9b.png)
